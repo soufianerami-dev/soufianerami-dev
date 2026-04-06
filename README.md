@@ -1,64 +1,57 @@
-# Hi 👋 I'm Soufiane RAMI
+# Hi, I'm Soufiane RAMI
 
-💻 Web & Mobile Developer  
-📍 Morocco  
-🚀 Passionate about building modern web and mobile applications  
-
----
-
-## 🚀 About Me
-
-I am a Web & Mobile Development student at ENSET Mohammedia.  
-I focus on building strong fundamentals in programming and creating real-world projects.
-
-I am also learning Artificial Intelligence, including AI agents and prompt engineering, to integrate smart solutions into applications.
+Web & Mobile Developer  
+Based in Morocco  
 
 ---
 
-## 🛠️ Skills
+## About Me
 
-### 💻 Development
+I am a student in Web & Mobile Development at ENSET Mohammedia.  
+I focus on building strong programming basics and working on real projects.
+
+I am also learning Artificial Intelligence, including AI agents and prompt engineering.
+
+---
+
+## Skills
+
+### Development
 - HTML  
 - CSS  
 - JavaScript  
 - Java  
-- Web Development  
-- Mobile Development  
 
-### ⚙️ Tools
+### Tools
 - Git  
 - GitHub  
 
-### 🤖 AI
-- Artificial Intelligence (AI)  
+### AI
+- Artificial Intelligence  
 - Prompt Engineering  
 
-### 🧠 Computer Science
+### Computer Science
 - Data Structures  
 - Algorithms  
 
 ---
 
-## 📚 Currently Learning
+## Currently Learning
 
 - Advanced Java  
-- React (Web Development)  
-- AI & Automation  
+- React  
+- AI and Automation  
 
 ---
 
-## 🎯 Goals
+## Goals
 
 - Become a professional Web & Mobile Developer  
-- Work on real-world projects  
-- Start freelance & remote work  
+- Build real-world projects  
+- Start freelance and remote work  
 
 ---
 
-## 📫 Contact
+## Contact
 
-- LinkedIn: https://www.linkedin.com/in/soufianerami9p  
-
----
-
-🔥 This is just the beginning... more projects coming soon!
+LinkedIn: https://www.linkedin.com/in/soufianerami9p
