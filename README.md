@@ -14,33 +14,18 @@ I am also learning Artificial Intelligence, including AI agents and prompt engin
 
 ---
 
-## Skills
-
-### Development
-- HTML  
-- CSS  
-- JavaScript  
-- Java  
-
-### Tools
-- Git  
-- GitHub  
-
-### AI
-- Artificial Intelligence  
-- Prompt Engineering  
-
-### Computer Science
-- Data Structures  
-- Algorithms  
-
----
 
 ## Currently Learning
 
-- Advanced Java  
-- React  
-- AI and Automation  
+# AI
+- Artificial Intelligence  
+- Prompt Engineering 
+# Computer Science
+- Data Structures  
+- Algorithms
+# Tools
+- Git  
+- GitHub  
 
 ---
 
