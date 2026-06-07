@@ -15,15 +15,15 @@ I am also learning Artificial Intelligence, including AI agents and prompt engin
 ---
 
 
-# Currently Learning
+## Currently Learning
 
-# AI
+### AI
 - Artificial Intelligence  
 - Prompt Engineering 
-# Computer Science
+### Computer Science
 - Data Structures  
 - Algorithms
-# Tools
+### Tools
 - Git  
 - GitHub  
 
