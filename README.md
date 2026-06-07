@@ -7,7 +7,7 @@ Based in Morocco
 
 ## About Me
 
-I am a student in Web & Mobile Development at ENSET Mohammedia.  
+I am a student in Web & Mobile  
 I focus on building strong programming basics and working on real projects.
 
 I am also learning Artificial Intelligence, including AI agents and prompt engineering.
