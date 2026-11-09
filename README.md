@@ -37,6 +37,4 @@ I am also learning Artificial Intelligence, including AI agents and prompt engin
 
 ---
 
-## Contact
 
-LinkedIn: https://www.linkedin.com/in/soufianerami9p
